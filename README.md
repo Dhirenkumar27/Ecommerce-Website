@@ -1,3 +1,1 @@
-# React & Node Tutorial - Full ECommerce in 5 Hours [2020]
-
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
+Our e-commerce platform is designed to deliver a fast, secure, and seamless shopping experience, built with modern Microsoft technologies. Using ASP.NET Core for a powerful and reliable backend, SQL Server for robust data management, and ASP.NET MVC for a responsive, user-friendly interface, our site ensures smooth navigation and quick transactions on any device. Security is reinforced through Microsoft Identity for authentication and industry-standard encryption for payment processing, providing customers with a trustworthy and enjoyable online shopping journey.
